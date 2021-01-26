@@ -1,0 +1,39 @@
+# Gboard corner radius of bottom corner right button
+# Радиус закругления нижней правой клавиши
+# Default value=25
+ro.com.google.ime.corner_key_r=5
+
+# Gboard corner radius of bottom corner left button
+# Радиус закругления нижней левой клавиши
+# Default value=25
+ro.com.google.ime.corner_key_l=5
+
+# Gboard right padding on portrait orientation
+# Отступ справа в портретом режиме
+# Default value=5
+ro.com.google.ime.kb_pad_port_r=3
+
+# Gboard left padding on portrait orientation
+# Отступ слева в портретом режиме
+# Default value=5
+ro.com.google.ime.kb_pad_port_l=3
+
+# Gboard bottom padding on portrait orientation
+# Отступ снизу в портретом режиме
+# Default value=10
+ro.com.google.ime.kb_pad_port_b=2
+
+# Gboard right padding on landscape orientation
+# Отступ справа в ландшафтном режиме
+# Default value=55
+ro.com.google.ime.kb_pad_land_r=55
+
+# Gboard left padding on landscape orientation
+# Отступ слева в ландшафтном режиме
+# Default value=55
+ro.com.google.ime.kb_pad_land_l=55
+
+# Gboard bottom padding on landscape orientation
+# Отступ снизу в ландшафтном режиме
+# Default value=10
+ro.com.google.ime.kb_pad_land_b=5
